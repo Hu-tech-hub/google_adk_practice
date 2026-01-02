@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Google ADK Documentation
+    url: https://cloud.google.com/adk
+    about: Google ADK 공식 문서를 확인하세요
