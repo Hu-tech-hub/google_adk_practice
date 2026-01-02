@@ -1,0 +1,8 @@
+[project]
+name = "google-adk-practice"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "google-adk>=1.21.0",
+]
